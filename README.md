@@ -7,9 +7,9 @@ This repository contains TUNISIA presidential elections data for first and secon
 Data description
 ==================
 
-### elect_result_1 
+### results_elect_1.csv 
 first round data of presidential election.
-### elect_result_2 
+### results_elect_2.csv
 second round data of presidenial election.
 
 The data is presented by vote center but it can be aggrgated :
