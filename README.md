@@ -22,4 +22,4 @@ The data is presented by vote center but it can be aggrgated :
 Issues
 ==================
 
-* In case you find any error or any suggestion don't hesitate to contact me using issue features.
+* In case you find any error or any suggestion don't hesitate to contact me using issues feature.
