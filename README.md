@@ -3,6 +3,13 @@ elections
 
 This repository contains TUNISIA presidential elections data for first and second round. Files were used as a data source for [TEA](https://agstudy.shinyapps.io/tun_elections/). 
 
+Sources
+==========
+
+The data is the extraction/aggregation of [ISIE Official results](http://www.isie.tn/resultats/resultats-presidentielles/). *
+* Note that the data of France1 are not provided ( not yet when I did the last extraction (29-12-2014)).
+
+
 
 Data description
 ==================
