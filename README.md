@@ -1,7 +1,14 @@
 elections
 =========
 
-This repository contains TUNISIA presidential elections data for first and second round. Files were used as a data source for [TEA](https://agstudy.shinyapps.io/tun_elections/). So it contains only data of the 2 principal  candidates winner of the first round.
+This repository contains TUNISIA presidential elections data for first and second round. Files were used as a data source for [TEA](https://agstudy.shinyapps.io/tun_elections/). 
+
+
+Data description
+==================
+
+### elect_result_1 is first round data of presidential election.
+### elect_result_2 is second round data of presidenial election.
 
 The data is presented by vote center but it can be aggrgated :
 
